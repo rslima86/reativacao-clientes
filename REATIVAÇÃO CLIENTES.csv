@@ -1,0 +1,247 @@
+﻿id;cliente;prioridade;ultimaCompra;ultimoAno;compras;processosTotal;valorTotal;valorUltima;ultimoProcesso;ultimoStatus;ultimoServico;ultimoVendedor;acaoSugerida
+1;ARCELOR MITTAL - SABARÁ;Alta;2025-04-01;2025;46;162;70698.0;3988.76;9698;FATURADO;NACIONALIZAÇÃO VÁLVULA LIMITADORA DE PRESSÃO DA CHANFRADEIRA SMS;LIMA / TÚLIO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+2;OZ MINERALS;Alta;2025-01-02;2025;10;15;345485.92;88021.94;9601;FATURADO;SERVIÇO DE REPARO NAS BOMBAS DA PERFURATRIZ RS-001;DUDA/LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+3;JULY QUARTZO;Alta;2025-04-09;2025;10;30;39617.88;16671.15;9714;FATURADO;FORNECIMENTO DE COMPONENTES PARA JUMBO;TÚLIO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+4;SOMAR DIESEL;Alta;2025-08-04;2025;8;11;257252.97;60000.0;9884;FATURADO;REFORMA DO IMPLEMENTO COMBOIO G450XT;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+5;AURA APOENA - MATO GROSSO;Alta;2025-09-23;2025;8;12;61015.75;5965.5;9955;FATURADO;FORNECIMENTO BOMBA HIDRÁULICA DE ENGRENAGENS-35790;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+6;GERDAU - SÃO CAETANO DO SUL;Alta;2025-02-06;2025;7;23;25976.24;4754.94;9630;FATURADO;RETIRADA VAZAMENTO NO TANQUE DE ÓLEO PRENSA DE SUCATAS;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+7;J.L.O ENGENHARIA E CONSTRUÇÃO;Alta;2025-08-19;2025;5;5;506506.07;8203.9;9901;FATURADO;SERVIÇO DE REFORMA DO CILINDRO DE ELEVAÇÃO;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+8;AÇOS ALIANÇA;Alta;2025-05-26;2025;5;15;31708.87;2100.0;9788;FATURADO;FORNECIMENTO DE VÁLVULA DIRECIONAL TN10;TÚLIO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+9;IF BAIANO;Alta;2025-11-11;2025;4;4;53502.15;15313.72;10028;FATURADO;SERVIÇO DE REVISAO COMPLETA EM AR CONDICIONADO VAN IVECO DAILY;PAULO / DUDA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+10;FAZENDA MARZAGÃO SABARA;Alta;2025-02-27;2025;3;3;905238.06;7639.28;9653;FINALIZADO;SERVIÇO DE MANUTENÇÃO EM CONCHA DO TRATOR;LIMA/ALYSSON;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+11;LES MANUTENÇÃO;Alta;2025-04-25;2025;3;4;32824.51;24045.78;9741;FATURADO;SERVIÇO DE MANUTENÇÃO CAMINHÃO MUNCK TCA-1E86;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+12;SOLO FÉRTIL;Alta;2025-10-03;2025;3;4;10595.76;1611.7;9978;FATURADO;FORNECIMENTO DE FLANGE LANTERNA PARA MOTOR 132;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+13;NEXA RECURSOS MINERAIS S.A;Alta;2025-03-17;2025;2;4;494047.3;23018.47;9674;FATURADO;SERVIÇO DE REPARO EM CILINDROS HIDRÁULICO - ADITIVO (PROCESSO 9467);LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+14;FERMEC;Alta;2025-03-13;2025;2;11;31327.83;9891.84;9671;FATURADO;FORNECIMENTO DE MANÔMETROS E LUVAS DE ADAPTAÇÃO;ALYSSON;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+15;ARCELOR MITTAL- JOAO MOLEVADE;Alta;2025-11-06;2025;2;2;9421.98;7080.0;10019;FATURADO;FORNECIMENTO DE FILTRO CESTO JM 2300900243;PAMELA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+16;ARCELOR MITTAL;Alta;2025-07-04;2025;2;78;6474.7;4783.26;9844;FATURADO;FABRICAÇÃO DE GRADES PROTEÇÃO E MÓVEL - SUB;LIMA / FAGNER;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+17;NEOSTEL;Alta;2025-01-29;2025;2;5;6048.0;2548.0;9620;FATURADO;FORNECIMENTO DE BOMBA DE ENGRENAGEM;TÚLIO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+18;MAIKE ALAN - PAIXÃO DI VAQUEIRO;Alta;2025-12-15;2025;2;2;3075.86;2140.0;10096;FATURADO;SERVIÇO DE REPARO EM ONIBUS;PAULO / DUDA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+19;IRMAOS PELEGRINI;Alta;2025-09-02;2025;2;2;3021.54;1571.54;9921;FATURADO;REVISÃO SISTEMA ELÉTRICO DO AR CONDICIONADO FORD Cargo PKE-3275;JOAO / LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+20;GRUPO SANTIN;Alta;2025-10-23;2025;2;2;2625.46;1545.46;10003;FATURADO;SERVIÇO DE REVISAO NO SISTEMA DE AR CONDICIONADO;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+21;CRD LOCACAO DE MAQUINAS E EQUIPAMENTOS LTDA;Alta;2025-09-01;2025;2;2;1930.0;830.0;9918;FATURADO;AJUSTE DE VÁLVULA APS E REGULAGEM DOS FREIOS EM SCANIA G440;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+22;UAU INGLESA;Alta;2025-09-11;2025;1;6;155000.0;155000.0;9933;FATURADO;SERVIÇO DE SUPRESSAO VEGETAL DE COQUEIROS E ÁRVORES NATIVAS;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+23;BRAZAURO RECURSOS MINERAIS;Alta;2025-07-29;2025;1;1;20804.66;20804.66;9874;FATURADO;FORNECIMENTO DE BOMBA DE ENGRENAGENS;ALYSSON;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+24;IPC1000;Alta;2025-02-13;2025;1;2;15000.0;15000.0;9639;FATURADO;SERVIÇO DE REPARO EM BOMBA DE PISTÃO DANFOS;ALYSSON / DUDA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+25;USINA DE ASFALTO LUXOS;Alta;2025-05-27;2025;1;2;10000.0;10000.0;9791;FATURADO;SERVIÇO DE CORTE E PREPARAÇÃO DE TUBOS (TUBOS COM CORTE A 45°);LIMA / ALYSSON;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+26;FURNACE;Alta;2025-02-10;2025;1;3;8375.85;8375.85;9632;FATURADO;SERVIÇO REPARO UNIDADE HIDRÁULICA BM 90 - PTM 0003;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+27;ORC CONSTRUÇÕES;Alta;2025-09-17;2025;1;1;6608.05;6608.05;9948;FATURADO;SERVIÇO DE MANUTENÇÃO EM CILINDROS HIDRÁULICOS;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+28;GRUPO PELEGRINI;Alta;2025-05-12;2025;1;1;3090.0;3090.0;9770;FATURADO;SERVIÇO DE REPARO EM CAMINHOES;JOAO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+29;MARCUS STRADA;Alta;2025-06-10;2025;1;1;1760.0;1760.0;9809;FATURADO;SERVIÇO DE REPARO EM CILINDROS HIDRAULICOS SIMPLES AÇÃO;DUDA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+30;COOPETRANS SENHOR DO BONFIM;Alta;2025-09-18;2025;1;1;1508.52;1508.52;9950;FATURADO;SERVIÇO DE REVISÃO DE RAMPA PARA CADEIRANTE DE ÔNIBUS;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+31;CERÂMICA PONTO NOVO;Alta;2025-09-15;2025;1;1;1230.0;1230.0;9944;FATURADO;SERVIÇO DE MANUTENÇÃO DO SISTEMA DE AR-CONDICIONADO;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+32;TERPLAN;Alta;2025-02-04;2025;1;1;1160.23;1160.23;9626;FATURADO;SERVIÇO DE SUBSTITUIÇÃO DO PRESSOSTATO E CARGA DE GÁS EM CARREGADEIRA CATERPILAR;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+33;EDN LATICÍNIOS E FRIOS;Alta;2025-09-26;2025;1;1;980.3;980.3;9960;FATURADO;SERVIÇO DE MANUTENÇÃO EM AR CONDICIONADO DE CÂMERA FRIA;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+34;DANIEL DE J;Alta;2025-12-05;2025;1;1;830.0;830.0;10093;FATURADO;-;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+35;M A SILVA B O;Alta;2025-12-17;2025;1;1;410.0;410.0;10108;FATURADO;-;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+36;G DE A NASCIMENTO ENGENHARIA;Alta;2025-11-06;2025;1;1;400.0;400.0;10021;FATURADO;SERVIÇO DE CARGA DE GAS 0,400kg NO SISTEMA E TROCA DO FILTRO SECADOR;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+37;AMBROSIO DE JE;Alta;2025-09-15;2025;1;1;350.0;350.0;9945;FATURADO;SERVIÇO DE TROCA DAS ESCOVAS DO MOTOR VENTILADOR;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+38;DANIEL FER;Alta;2025-12-05;2025;1;1;350.0;350.0;10088;FATURADO;-;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+39;CRISTIANO BISPO DE JESUS;Alta;2025-12-03;2025;1;1;250.0;250.0;10077;FATURADO;CARGA DE GAS;PAULO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+40;-;Alta;2025-09-12;2025;1;1;210.0;210.0;9938;FATURADO;-;PAULO / JOÃO;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+41;EDNALDO BOR;Alta;2025-09-12;2025;1;1;210.0;210.0;9946;FATURADO;SERVIÇO DE REVISÃO E TROCA DAS LÂMPADAS LANTERNA TRASEIRA;LIMA;Contato ativo imediato: validar demanda 2026 e atualizar cadastro.
+42;BELGO BEKAERT - CONTAGEM;Média;2024-04-04;2024;35;103;289288.77;10126.28;9214;FATURADO;2 CILINDROS DA GUILHOTINA;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+43;PAN AMERICAN SILVER - MINERAÇÃO JACOBINA;Média;2024-09-09;2024;14;15;154194.11;0.0;9457;FATURADO;REFORMA DE BOMBA HIDRAULICA R902419442 (A10VSO140) - PROCESSO 9222;ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+44;MINERAÇÃO AURIZONA;Média;2024-02-15;2024;13;17;238642.85;11859.4;9153;FATURADO;FORNECIMENTO DE BOMBA ENGRENAGEM MRHBE10501004002 METARIS;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+45;ARCELOR - RECIFE;Média;2024-11-12;2024;7;7;29297.45;4237.35;9538;FATURADO;FORNECIMENTO DE MOTOR ORBITAL;GILMARA/LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+46;PEDRAS CONGONHAS;Média;2024-03-07;2024;5;18;27057.79;18000.0;9175;FATURADO;SERVIÇO DE REFORMA EM CILINDRO DE ELEVAÇÃO DA ESCAVADEIRA;RODRIGUES/GILMARA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+47;FNR ESTRUTURAS - MATOZINHOS;Média;2024-11-21;2024;4;5;58938.33;908.0;9550;FATURADO;SERVIÇO DE ASSITÊNCIA TÉCNICA NA DOBRADEIRA;ALYSSON/GILMARA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+48;VITERBO;Média;2024-10-18;2024;4;5;27354.26;7680.0;9509;FATURADO;SERV. DE ASSIST. TÉCN.  MONTAGEM DE BLOCO HIDRÁULICO E VÁLVULA DE SEGURANÇA EM 02 DOBRADEIRAS MOD.: WC67E-80T/3200;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+49;RK MANUTENÇÕES;Média;2024-10-30;2024;4;6;13502.71;3400.0;9529;FATURADO;SERVIÇO DE REPARO EM CILINDRO DE AVANÇO DE CAMINHÃO MUNCK;RODRIGUES/DUDA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+50;MCR MINERAÇÃO;Média;2024-10-14;2024;3;12;383156.31;137590.1;9502;FATURADO;FORNECIMENTO ESTRUTURA METÁLICA PARA TELHADO - 18997853;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+51;EQUINOX - MINERAÇÃO AURIZONA;Média;2024-12-11;2024;3;4;123181.53;101607.99;9578;FATURADO;SERVIÇO DE REPARO NA UNIDADE HIDRAULICA E CONTRA RECUO DAS CORREIAS;DUDA/GILMARA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+52;LOSUNG;Média;2024-11-19;2024;3;4;39874.19;8110.19;9548;FINALIZADO;SERVIÇO DE REFORMA DA BOMBA LIND HPR105;DUDA/ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+53;AETHRA;Média;2024-06-17;2024;3;9;12232.03;3624.95;9326;FATURADO;MANUTENÇÃO NO SISTEMA DE LUBRIFICAÇÃO DA PRENSA, COM INSTALAÇÃO DE UM PRESSOSTATO E CHAVE DE FLUXO;RODRIGUES/FAGNER;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+54;VLI - IMPERATRIZ;Média;2024-11-19;2024;2;3;79041.97;35198.9;9547;FATURADO;SERVIÇO DE TRASLADO DA PRENSA DE EIXAMENTO E DESEIXAMENTO DO ESTALEIRO;LIMA/ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+55;JSL - BETIM;Média;2024-06-20;2024;2;5;59136.14;56956.14;9331;FATURADO;FORNECIMENTO E INSTALAÇÃO DE REFLETORES DA ÁREA EXTERNA;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+56;CONTECNICA - JOÃO MONLEVADE;Média;2024-03-07;2024;2;3;35171.08;171.08;9173;FATURADO;FORNECIMENTO DE MANOMETRO CAIXA DE 63 COM ESCALA DE 0 A 250 BAR, SAÍDA INFERIOR;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+57;PROGEO;Média;2024-03-15;2024;2;4;11991.0;983.58;9191;FATURADO;FORNECIMENTO DE VÁLVULA V4WE10G3X/EG24NZ5L;RODRIGUES/GILMARA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+58;RK;Média;2024-01-08;2024;2;2;8103.73;4663.49;9121;FATURADO;REFORMA EM CILINDRO HIDRÁULICO;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+59;SISNERGY;Média;2024-06-25;2024;2;4;6579.27;5079.27;9346;FATURADO;SERVIÇO MANUTENÇÃO E INSTALAÇÃO DO SISTEMA DE EXAUSTÃO;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+60;CS BRASIL;Média;2024-06-26;2024;2;8;5550.0;350.0;9347;FATURADO;SERVIÇO DE REMOÇÃO E RELOCAÇÃO DE CAIXA DE MARIMBONDOS;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+61;ESMIG INDUSTRIA;Média;2024-05-21;2024;2;4;3980.0;2000.0;9283;FATURADO;REFORMA DE CILINDRO DA PRENSA;RODRIGUES/FAGNER;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+62;EPOS;Média;2024-03-21;2024;2;9;2794.2;1354.2;9197;FATURADO;FORNECIMENTO DE CONECTOR DIN PARA VÁLVULA SOLENOIDE;GABRIEL;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+63;MAGNA;Média;2024-07-24;2024;2;8;1388.99;1388.99;9384;FATURADO;FORNECIMENTO DE UM TRANSDUTOR DE PRESSÃO;ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+64;NUTRA HAIR;Média;2024-04-04;2024;2;2;1101.72;826.29;9213;FATURADO;FORNECIMENTO DE CILINDRO MINI ISO Ø16 1 2 0-054;GILMARA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+65;EMGEPRON;Média;2024-04-05;2024;2;8;0.0;0.0;9224;FATURADO;FORNECIMENTO DO BRAÇO GIRATÓRIO ELÉTRICO;GILMARA/ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+66;ALBRAS;Média;2024-06-25;2024;1;9;662869.0;662869.0;9344;FATURADO;FORNECIMENTO DE CORRENTE E RODAS DE ARRASTE;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+67;ATERPA - J. DANTAS;Média;2024-12-03;2024;1;1;465584.38;465584.38;9568;FATURADO;FORNECIMENTO DE IMPLEMENTO PLATAFORMA CAMINHÃO MUNCK;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+68;MINERAÇÃO SANTIAGO - CEU AZUL;Média;2024-09-10;2024;1;2;226000.0;226000.0;9505;FATURADO;SERVIÇO IMPLANTAÇÃO DE CORTINAMENTO ARBÓREO;RODRIGUES/FERNANDO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+69;EQUINOX GOLD - FAZENDA MANDACARU;Média;2024-12-26;2024;1;1;61803.82;61803.82;9597;FATURADO;FORNECIMENTO DE 02 UNID. DA BOMBA OLEO - 825071;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+70;REFRACONT JUATUBA;Média;2024-04-17;2024;1;1;56000.0;56000.0;9242;FATURADO;FABRICAÇÃO IMPLEMENTO ENFARDADOR;FAGNER/GIOVANE;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+71;EQUINOX - GOLD;Média;2024-08-08;2024;1;2;53459.18;53459.18;9405;FATURADO;FORNECIMENTO DE 02 UNID. DA BOMBA DE LUBRIFICAÇÃO DOS MANCAIS DO EIXO PINHÃO;ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+72;JSL - EXTREMA;Média;2024-04-05;2024;1;1;35000.0;35000.0;9217;FATURADO;SERVIÇO DE REMOÇÃO E PREPARAÇÃO E PINTURA DE 6 MIL METROS LINEARES DE FAIXA DE SEGURANÇA;ALYSSON/ROMÃO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+73;IMM INDUSTRIA METAL OURO BRANCO;Média;2024-03-08;2024;1;4;33200.0;33200.0;9176;FATURADO;SERVIÇO DE REFORMA DE 4 CILINDROS HIDRAULICOS ESCAVADEIRA KOMATSU;GABRIEL;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+74;ADEQUADA - PARÁ MRN;Média;2024-04-09;2024;1;1;23541.95;23541.95;9227;FATURADO;SERVIÇO DE CONSULTORIA EM SISTEMAS HIDRÁULICOS PRENSA DE RODEIROS E DOBRADEIRA DE CHAPAS MRN;ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+75;TT SERVIÇOS DE RECICLAGEM LTDA -  SOROCABA;Média;2024-12-09;2024;1;2;17942.85;17942.85;9574;FATURADO;SERVIÇO DE ASSISTÊNCIA TÉCNICA PARA SISTEMA HIDRÁULICO;ALYSSON/GILMARA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+76;DGRANEL;Média;2024-06-27;2024;1;5;14587.6;14587.6;9348;FATURADO;FORNECIMENTO DE 02 SKIDs DE ABASTECIMENTO - OLEO 10W30 E 15W40;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+77;VALE - VARGEM GRANDE;Média;2024-01-02;2024;1;2;8500.0;8500.0;9113;FATURADO;SERVIÇO DE LOCAÇÃO DE TABLETS INDUSTRIAIS MR ERT18;GABRIEL;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+78;UBERTEC;Média;2024-07-12;2024;1;7;7205.52;7205.52;9370;FATURADO;FORNECIMENTO BOMBA DE ENGRENAGEM DUPLA;JOÃO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+79;PIF-PAF  ALIMENTOS;Média;2024-07-09;2024;1;2;6467.34;6467.34;9363;FATURADO;FORNECIMENTO DE VÁLVULA E PRESSOSTATOS - ARGO HYTOS;GILMARA/LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+80;PAULO MÁQUINAS;Média;2024-01-03;2024;1;1;5890.0;5890.0;9115;FATURADO;FORNECIMENTO DE BOMBA HIDRÁULICA MRBH12AS1B21;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+81;STRONG;Média;2024-05-16;2024;1;1;3575.24;3575.24;9277;FATURADO;EMISSÃO DE LAUDO DE TESTE DE LP E ULTRASSOM EM OLHAL ESCAVADEIRA KOMATSU PC350 E LAUDO DE RESISTÊNCIA/MEMORIAL DESCRITIVO GUARDA CORPO ESCAVADEIRA PC350;GILMARA/ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+82;FRIGOABAT;Média;2024-03-13;2024;1;1;1710.0;1710.0;9182;FATURADO;FORNECIMENTO DE BOMBA DE ENGRENAGENS MRHBE10053014001;GABRIEL;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+83;FME (FUNDO MUNICIPAL DE EDUCACAO);Média;2024-12-20;2024;1;1;1250.3;1250.3;9594;FINALIZADO;CARGA DE GÁS LIMPEZA DO SISTEMA DO AR CONDICIONADO PRENSAGEM DE MANGUEIRA;PAULO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+84;NEOSTEEL;Média;2024-02-22;2024;1;3;1204.87;1204.87;9157;FATURADO;FORNECIMENTO DE VÁLVULA  REGULADORA DE PRESSÃO MRHVP18B200;GABRIEL;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+85;AUTO SOCORRO GONÇALVES;Média;2024-06-25;2024;1;1;1153.64;1153.64;9341;FATURADO;MANUTENÇÃO DO CILINDRO DA PRANCHA;LIMA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+86;CONSTRUTORA AGMAR;Média;2024-01-29;2024;1;3;410.01;410.01;9142;FATURADO;SERVIÇO DE REFORMA EM CILINDRO PNEUMATICO;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+87;CONSTRUTORA HELMO;Média;2023-05-16;2023;10;29;122663.85;102947.6;8848;FATURADO;SUPRESSÃO VEGETAL ÁREAS 1.000M² E 7.900 M²;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+88;ANGLO GOLD - CRIXAS;Média;2023-03-17;2023;4;12;54863.44;28154.6;8779;FATURADO;FORNECIMENTO DE BOMBA HIDRAULICA SIMILAR A EPIROC, 3719011302 - BOMBA A10VSO45;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+89;ADEQUADA ENGENHARIA;Média;2023-10-04;2023;4;17;50464.05;10534.55;8983;FATURADO;CONSULTORIA EM PROJETO HIDRAULICO NR12 DISPOSITIVO SACADOR DE PINOS EM MRN;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+90;BC PNEUS;Média;2023-02-08;2023;3;3;378534.04;0.0;8735;FATURADO;MANUTENÇÃO NO COMANDO ELÉTRICO;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+91;PROGEO - BELO HORIZONTE;Média;2023-08-09;2023;3;5;270612.89;10590.18;8940;FATURADO;FORNECIMENTO DE VÁLVULA DE VENTAGEM MONITORADA E CERTIFICADA;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+92;ARCELOR MITTAL - CANDEIAS;Média;2023-06-01;2023;3;4;55246.34;39068.0;8871;FATURADO;FORNECIMENTO DE TROCADOR DE CALOR MODELO TE11 - MRHVS45VQ57NT;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+93;USIPAR PITANGUI;Média;2023-02-22;2023;3;3;19224.71;10206.93;8748;FATURADO;"REFORMA EM CILINDRO PNEUMÁTICO 12""";RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+94;ARCELOR MITTAL - PERNAMBUCO;Média;2023-09-25;2023;2;2;113790.06;3509.04;8979;FATURADO;FORNECIMENTO DE RESERVATORIO PARA BOMBA DE LUBRIFICAÇÃO AUTOMATICA DIECKMANN BED-15-MC CÓDIGO 1.4.012.01.02;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+95;NEXA - MINERAÇÃO DARDANELOS LTDA;Média;2023-05-08;2023;2;5;32146.72;13993.31;8833;FATURADO;FORNECIMENTO DE BOMBA DUPLA DE ENGRENAGEM P350;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+96;SAMA SANTA MARTA;Média;2023-10-06;2023;2;6;3297.58;2296.32;8988;FATURADO;VÁLVULA SOLENOIDE BSP INOX 2S - MARCA - MRO PNEUMATICA - MODELO 2WB200-20-AC220V - TEMPERATURA MÁXIMA: 80 °C;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+97;MINERAÇÃO MORRO DO SINO;Média;2023-03-06;2023;1;2;439294.27;439294.27;8764;FATURADO;SUPRESSÃO VEGETAL ÁREA 7,13 HA.;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+98;FAZENDA MARZAGÃO - SABARÁ;Média;2023-09-19;2023;1;1;198440.35;198440.35;8974;FATURADO PARCIAL;EXECUÇÃO PTRF;GABRIEL;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+99;OZ MINERAÇÃO;Média;2023-03-22;2023;1;5;63443.13;63443.13;8787;FATURADO;FORNECIMENTO DE BOMBA A10VSO140 PARA MANDRIL - PLACA DE VÁLVULA E MANCAL;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+100;ANGLO GOLD  - NOVA LIMA;Média;2023-01-12;2023;1;2;31783.79;31783.79;8713;FATURADO;TROCADOR DE CALOR;MARIA EDUARDA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+101;RADAR RENT A CAR;Média;2023-06-13;2023;1;1;28000.0;28000.0;8881;FATURADO;ADEQUAÇÃO E INSTALAÇÃO DE MOTOR AGRALE M93;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+102;JM HIDRAULICA;Média;2023-09-12;2023;1;2;20819.46;20819.46;8965;FATURADO;REFORMA E REPOTENCIAMENTO EM UNIDADE HIDRAULICA PARA ACIONAMENTO DE TORQUIADORA HIDRAULICA.;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+103;GERDAU - RECIFE;Média;2023-05-10;2023;1;1;16151.07;16151.07;8841;FATURADO;MANUTENÇÃO PREVENTIVA HIDRO 54;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+104;MAX TERRAPLENAGEM;Média;2023-04-03;2023;1;1;12087.0;12087.0;8802;FATURADO;MOTORES HIDRAULICOS A4VG105;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+105;GERDAU - ARAQUARI SC;Média;2023-10-16;2023;1;2;11759.05;11759.05;8994;FATURADO;SERVIÇO DE SUBSTITUIÇÃO DE CILINDRO HIDRÁULICO LONGO DO PRESSOR DA PRENSA SIERRA 27;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+106;SERRARIA PALO - ARAÇATUBA;Média;2023-08-16;2023;1;1;10989.9;10989.9;8932;FATURADO;FORNECIMENTO DE PEÇAS DE BOMBAS A10VSO45, A11VO130,, A4VG90 E BOMBA DE ENGRENAGEM;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+107;VOTORANTIM - CANTAGALO RJ;Média;2023-09-15;2023;1;1;6950.0;6950.0;8971;FATURADO;FORNECIMENTO DE MOTOR HIDRAULICO MRHMVOMS160;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+108;RICARDO MARTINS;Média;2023-09-13;2023;1;1;5051.22;5051.22;8967;FATURADO;FORNECIMENTO CONJUNTO ACIONAMENTO AGITADOR HIDRAULICO;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+109;MM SERVICE TRACTOR - JOÃO MONLEVADE;Média;2023-06-07;2023;1;1;4034.77;4034.77;8877;FATURADO;REFORMA DE COMANDO MOBIL;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+110;PEDREIRA APOLO - RIO DE JANEIRO;Média;2023-06-27;2023;1;1;3400.62;3400.62;8888;FATURADO;FORNECIMENTO DE FILTRO BCI200;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+111;INFRABRASIL;Média;2023-01-17;2023;1;4;2990.53;2990.53;8722;FATURADO;REPARO EM CILINDRO DA CABINE SCANIA;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+112;MASTERLINE - UBERABA;Média;2023-03-21;2023;1;1;2675.22;2675.22;8783;FATURADO;FORNECIMENTO DE VALVULA DE CONTROLE DIRECIONAL RPE4-103Z11/02400E1 - ARGO-HYTHOS;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+113;ENERGY TECH;Média;2023-05-03;2023;1;1;2200.0;2200.0;8828;FATURADO;MALETA DE TESTE MRHMTPH600PSI;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+114;FEAG ANTIGA ESMIG;Média;2023-07-21;2023;1;1;1680.0;1680.0;8913;FATURADO;FORNECIMENTO DE BOBINAS PARA VÁLVULAS TN6 E TN10;RODRIGUES;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+115;MRW SERVIÇOS - ROBSON QUARESMA;Média;2023-08-17;2023;1;2;794.12;794.12;8944;FATURADO;FORNECIMENTO DE FILTRO F3.0730-56;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+116;TRACTORBEL;Média;2023-05-10;2023;1;1;650.0;650.0;8842;FATURADO;FORNECIMENTO DE VÁLVULA PNEUMÁTICA 5/2VIAS, 24V, 1/4;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+117;TECNO RENTAL;Média;2023-05-08;2023;1;1;533.72;533.72;8835;FATURADO;FORNECIMENTO DE ELEMENTO FILTRANTE ARGO HYTHOS F3.1014-26;MAURICIO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+118;IMM OURO BRANCO;Média;2023-11-24;2023;1;1;0.0;0.0;9085;FATURADO;ESCAVADEIRA - ALYSSON;ALYSSON;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+119;ARCELOR MITTAL - METALICOS;Média;2022-12-19;2022;225;304;1676097.95;32000.0;8692;FATURADO;FORNECIMENTO DE PEÇAS DO  PTO;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+120;GERDAU SÃO CAETANO;Média;2022-11-09;2022;28;36;503446.67;19091.14;8665;FATURADO;MANUTENCAO PREVENTIVA NA PRENSA HIDRO 58;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+121;GERDAU;Média;2022-03-24;2022;19;28;0.0;0.0;8389;FATURADO;MANUTENÇÃO BOMBA DE PISTÕES A10VSO100DFR1/31LPSC62K02;ISA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+122;REI DO AÇO;Média;2022-10-28;2022;7;7;84551.25;10609.75;8649;FATURADO;CILINDRO HIDRAULICO DA PRENSA JACARÉ;MARIA EDUARDA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+123;PH TRANSPORTES;Média;2022-01-26;2022;6;12;24800.0;0.0;8288;FATURADO;LAUDO DE LP EM GANCHO MUNCK COM RT;LUCIANO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+124;MVC LOGISTICA;Média;2022-03-29;2022;6;14;14400.0;0.0;8396;FATURADO;MOTOR HIDRÁULICO;ISA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+125;GERDAU CONTAGEM;Média;2022-03-11;2022;6;12;4895.86;0.0;8370;FATURADO;REDUTOR VEL 400KW (PTO) SIERRA 39;ISA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+126;NEMA MANUTENÇÃO;Média;2021-07-12;2021;9;11;0.0;0.0;8042;FATURADO;FORNECIMENTO DE VÁLVULAS E BLOCO DE VÁLVULAS;LUCIANO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+127;MRS LOGISTICA;Média;2021-03-03;2021;6;14;0.0;0.0;7828;FATURADO;VENTOINHA VENTISILVA TIPO E-11 -  115/230 VOLTS -   50/60HZ - 19/15W;ISA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+128;WLM - ITAIPU (ANGLO LAMEGO);Média;2021-02-05;2021;1;1;961166.73;961166.73;7789;FATURADO;INSTALAÇÃO DE TANQUE PIPA E MUNCK (CAMINHAO ANGLO) - TEVE RETRABALHO / GARANTIA;ALESSANDRA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+129;ICAL/EIMCAL;Média;2020-02-06;2020;6;29;0.0;0.0;7167;FATURADO;MANUTENÇÃO DA CABINE DOS COMPONENTES HIDRÁULICOS FORNO 6;VICTOR;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+130;U&M;Média;2020-02-07;2020;6;8;0.0;0.0;7168;FATURADO;BLOCO DE SEGURANÇA NR12;ADRIANA;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+131;BRAMETAL;Média;2020-09-15;2020;5;11;0.0;0.0;7531;FATURADO;HH MECANICO HIDRÁULICO;LUCIANO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+132;GERFAN;Média;2020-01-07;2020;5;10;0.0;0.0;7110;FATURADO;2 CILINDRO PNEUMATICO - DESCARREGADEIRA;LUCIANO;Contato de reaproximação: citar histórico e ofertar diagnóstico/visita técnica.
+133;SAMARCO;Baixa;2022-07-27;2022;4;10;18901.22;9176.74;8526;APROVADO;FORNECIMENTO DE UM MOTOR ORBITAL VDS160-H2-K-SN1BHPZY;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+134;MASTER DRILLING BRASIL;Baixa;2022-07-21;2022;4;7;18295.86;0.0;8513;FATURADO;ASSITENCIA TÉCNICA MANIPULADORA TELESCOPIO JCB 540-170;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+135;CONSTRUTORA KEBECK;Baixa;2022-03-03;2022;4;4;5100.0;0.0;8343;FATURADO;FORNECIMENTO BOMBA A10VSO100DFR1/31RPSC62K02;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+136;RIMA;Baixa;2022-02-04;2022;4;8;2781.15;2781.15;8474;FATURADO;KIT REPARO REXROTH;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+137;EMINAS;Baixa;2022-01-21;2022;4;6;928.82;928.82;8281;FATURADO;BOBINA SOLENOIDE PARA ELETROVÁLVULA REXROTH ØFURO 22,22MM;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+138;ARTE NATIVA;Baixa;2022-04-04;2022;4;8;0.0;0.0;8406;FATURADO;FORNECIMENTO CILINDRO COMPACTO MINI ISO 25/50;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+139;GERDAU SÃO BERNARDO CAMPO;Baixa;2022-03-10;2022;4;10;0.0;0.0;8354;FATURADO;REFORMA PTO 400 KW TECHNODRIVE AM230 SIERRA 13;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+140;LOTICI & SCHMIDT LTDA;Baixa;2022-07-19;2022;3;6;3947.9;3947.9;8508;FATURADO;FORNECIMENTO COMPONENTES A10VSO140DFR131RPPB12K;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+141;ALFA ENGENHARIA;Baixa;2022-07-28;2022;3;3;2309.46;1154.73;8524;FATURADO;LUBRIFICADOR PNEUMÁTICO 1IN - 10BAR - MRPCLSMC110;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+142;FERTILIGAS;Baixa;2022-06-28;2022;2;11;85800.0;42900.0;8488;FATURADO;UNIDADE HIDRÁULICA REGULAÇÃO DE TURBINA PCH;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+143;DIÁLISE;Baixa;2022-12-29;2022;2;9;4638.66;2022.6;8700;FATURADO;BOMBA DA UNIDADE HIDRAULICA;MARIA EDUARDA;Contato leve: atualização cadastral e identificação de responsável atual.
+144;GB HIDRÁULICA LTDA;Baixa;2022-02-01;2022;2;4;4512.5;2256.25;8300;FATURADO;COMISSÃO VENDA DE COMANDO NF 14857;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+145;GAE - CONSTRUÇÃO E COMERCIO;Baixa;2022-03-01;2022;2;2;2497.22;1248.61;8345;FATURADO;FORNECIMENTO DE VÁLVULA DIRECIONAL E DE RETENÇÃO;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+146;CIAFAL;Baixa;2022-04-14;2022;2;7;373.06;373.06;8418;FATURADO;"KIT REPARO CILINDRO PNEUMÁTICO Ø4""MRB";ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+147;SALUM CONSTRUÇÕES LTDA;Baixa;2022-02-15;2022;1;2;23750.0;23750.0;8312;APROVADO;ADEQUAÇÃO E INSTALAÇÃO DE MOTOR AGRALE M93;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+148;ALTERNATIVA MANUTENÇÃO E TRANSPORTES;Baixa;2022-09-05;2022;1;1;14847.08;14847.08;8566;FATURADO;MANIPULADOR TELESCOPICO JCB;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+149;GERDAU BARÃO DE COCAIS;Baixa;2022-08-08;2022;1;2;9940.0;9940.0;8531;FATURADO;UNIDADE MÓVEL DE FILTRAGEM;ADRIANA;Contato leve: atualização cadastral e identificação de responsável atual.
+150;MACAÚBAS;Baixa;2022-09-16;2022;1;1;5789.68;5789.68;8588;FATURADO;SUBSTITUIÇÃO DE MUDAS, ADUBAÇÃO, COBERTURA E COROAMENTO;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+151;PH HIDRAULICA;Baixa;2022-12-14;2022;1;12;2459.27;2459.27;8687;FATURADO;BOMBA DE ENGRENAGEM;MARIA EDUARDA;Contato leve: atualização cadastral e identificação de responsável atual.
+152;ANGLO GOLD - MINA RAPOSOS;Baixa;2022-11-12;2022;1;1;1655.03;1655.03;8668;FATURADO;MANGUEIRAS DO TROCADOR DE CALOR/SOPRADOR DEMAG;MARIA EDUARDA;Contato leve: atualização cadastral e identificação de responsável atual.
+153;ANGLO GOLD CDS;Baixa;2022-04-04;2022;1;1;0.0;0.0;8407;FATURADO;MOTOR DE GIRO - RC12629101;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+154;ARCELOR MITTAL CONTAGEM;Baixa;2022-03-25;2022;1;10;0.0;0.0;8391;APROVADO;BOMBA DE PISTÕES A10VSO100DFLR/31LPSC62K01;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+155;DSI UNDERGROUND BRASIL;Baixa;2021-07-30;2021;4;4;0.0;0.0;8065;FATURADO;REPARO EM CILINDRO;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+156;JMN MINERAÇÃO;Baixa;2021-04-08;2021;4;4;0.0;0.0;7897;FATURADO;REPARO 2 UNIDADES HIDRAULICAS;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+157;MANSERV;Baixa;2021-11-26;2021;4;8;0.0;0.0;8217;FATURADO;FORNECIMENTO E INSTALAÇÃO DE TRANCAS PARA COMBOIO;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+158;FUNDIÇÃO SIDERAL;Baixa;2021-11-25;2021;3;23;0.0;0.0;8212;FATURADO;BOMBA A10VSO45DFR131RPPA12N00;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+159;IMM;Baixa;2021-12-02;2021;3;5;0.0;0.0;8228;FATURADO;REFORMA BOMBA DE PALHETAS;;Contato leve: atualização cadastral e identificação de responsável atual.
+160;MINERADORA MONTE SANTO;Baixa;2021-02-22;2021;3;6;0.0;0.0;7809;FATURADO;ELEMENTO FILTRANTE IL2.2/10Q;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+161;PONTE NOVA PAPEIS;Baixa;2021-11-18;2021;3;10;0.0;0.0;8203;FATURADO;FORNECIMENTO VÁLVULA  Z2FS10;;Contato leve: atualização cadastral e identificação de responsável atual.
+162;ENERGOLD SONDAGENS;Baixa;2021-09-03;2021;2;2;68709.2;34354.6;9028;FATURADO;FORNECIMENTO DE QUEBRADOR DE MEMÓRIA - SONDA MODELO HC 1000 - SÉRIE 3;ANGELO;Contato leve: atualização cadastral e identificação de responsável atual.
+163;ENERGOLD;Baixa;2021-09-23;2021;2;10;14576.92;7288.46;8119;FATURADO;FORNECIMENTO DE BOMBAS DE ENGRENAGEM;ANGELO;Contato leve: atualização cadastral e identificação de responsável atual.
+164;A&T TECNOLOGIA;Baixa;2021-11-03;2021;2;2;3884.54;1942.27;8170;FATURADO;FORNECIMENTO DE VÁLVULA PROPORCIONAL DIRECIONAL;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+165;ANGLO GOLD - RAPOSOS;Baixa;2021-06-04;2021;2;4;0.0;0.0;7982;FATURADO;SUPRESSÃO_VEGETAL - MINA RAPOSOS;;Contato leve: atualização cadastral e identificação de responsável atual.
+166;CERÂMICA SARDINHA;Baixa;2021-08-24;2021;2;2;0.0;0.0;9003;FATURADO;FORNECIMENTO DE VÁLVULA E CONEXÕES;JULIO;Contato leve: atualização cadastral e identificação de responsável atual.
+167;CIMENTOS LIZ;Baixa;2021-06-14;2021;2;2;0.0;0.0;7993;FATURADO;BOMBA PISTÃO RADIAL LOESCHE PM04;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+168;FRESAMAIS;Baixa;2021-04-23;2021;2;4;0.0;0.0;7919;FATURADO;FILTRO V3.0941.06;;Contato leve: atualização cadastral e identificação de responsável atual.
+169;HB SERVICE;Baixa;2021-04-27;2021;2;4;0.0;0.0;7922;FATURADO;VÁLVULA DIRECIONAL;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+170;METALÚRGICA AMAPÁ;Baixa;2021-04-13;2021;2;2;0.0;0.0;7902;FATURADO;VÁLVULA DE RETENÇÃO VJR2-10/MC – ARGO HYTOS;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+171;PEDREIRA APOLO;Baixa;2021-06-28;2021;2;2;0.0;0.0;8018;FATURADO;FORNECIMENTO DE ELEMENTO FILTRANTE E BOMBA DE ENGRENAGEM;ANGELO;Contato leve: atualização cadastral e identificação de responsável atual.
+172;VALÉRIO - IPATINGA;Baixa;2021-06-10;2021;2;2;0.0;0.0;7992;FATURADO;BOMBA TRIPLA;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+173;EPOS CUIABA;Baixa;2021-11-01;2021;1;3;2100.0;2100.0;8169;FATURADO;FORNECIMENTO DE VÁLVULA DIRECIONAL;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+174;IPACOL MÁQUINAS AGRÍCOLAS;Baixa;2021-11-12;2021;1;2;0.0;0.0;8196;APROVADO;BOMBA LINDE HPV 135-02;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+175;MINERAÇÃO SERRA DO OESTE;Baixa;2021-02-10;2021;1;4;0.0;0.0;7797;FATURADO;KIT DE REPARO BOART LONGYEAR -  MODELO LM30;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+176;BELGO BEKAERT - SABARÁ;Baixa;2020-11-06;2020;2;20;0.0;0.0;7633;FATURADO;APOIO AO COMISSIONAMENTO DO FORNO AEG;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+177;CRH;Baixa;2020-09-16;2020;2;2;0.0;0.0;7543;FATURADO;UNIDADE HIDRÁULICA XL1007;;Contato leve: atualização cadastral e identificação de responsável atual.
+178;DAIANE USINAGEM;Baixa;2020-04-29;2020;2;3;0.0;0.0;7278;FATURADO;KIT ADAPTAÇÃO;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+179;DEL RIO;Baixa;2020-05-04;2020;2;9;0.0;0.0;7285;FATURADO;KIT FREIO EMERGÊNCIA PARA O MANIPULADOR JCB;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+180;EIMCAL;Baixa;2020-12-04;2020;2;13;0.0;0.0;7699;FATURADO;FORMA UNIDADE HIDRÁULICA BRITADOR 55S;ANGELO;Contato leve: atualização cadastral e identificação de responsável atual.
+181;MINERAÇAÕ SERRA DO OESTE EIRELI;Baixa;2020-12-21;2020;2;2;0.0;0.0;7718;FATURADO;KIT DE REPARO \ BOART LONGYEAR - MODELO LM30;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+182;SAMASIDER SIDERÚRGICA;Baixa;2020-05-18;2020;2;5;0.0;0.0;7297;FATURADO;14 VÁLVULAS SOLENOIDE 220V;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+183;ALLONDA - BRUMADINHO;Baixa;2020-06-29;2020;1;7;0.0;0.0;7367;FATURADO;RECUPERAÇÃO DE HÉLICE;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+184;ALLONDA - ITABIRA;Baixa;2020-08-13;2020;1;4;0.0;0.0;7449;FATURADO;ADEQUAÇÃO SISTEMA HIDRÁULICO DRAGA ESTRELA MAR DGA021;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+185;APTA SOLUÇÃO E SISTEMAS;Baixa;2020-12-21;2020;1;1;0.0;0.0;7717;FATURADO;SERVIÇO DE ESPECIFICAÇÃO TÉCNICA DE SISTEMA DE ARREFECIMENTO;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+186;ARCELOR MITTAL - BAURU;Baixa;2020-09-03;2020;1;2;0.0;0.0;7502;FINALIZADO ALYSSON;REFORMA CILINDRO HIDRÁULICO;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+187;ARCELOR MITTAL - CONTAGEM;Baixa;2020-08-19;2020;1;32;0.0;0.0;7463;FATURADO;SISTEMA OFF LINE PRENSA DE SUCATA;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+188;ASTEC  DO BRASIL;Baixa;2020-11-04;2020;1;9;0.0;0.0;7626;FATURADO;BOBINAS SOLENOIDE;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+189;BELGO BEKAERT ARAMES - OSASCO;Baixa;2020-09-25;2020;1;1;0.0;0.0;7551;FATURADO;UNIDADE DE ÓLEAMENTO PARA CORDOALHA PROTENDIDA;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+190;CALHAS CARATINGA LTDA;Baixa;2020-11-04;2020;1;1;0.0;0.0;7625;FATURADO;VÁLVULA  4WE6G6X/EW230NZ5L;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+191;CAPACITORES TRIANGULO;Baixa;2020-05-22;2020;1;1;0.0;0.0;7308;FATURADO;MATERIAIS ELÉTRICOS;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+192;CONDOMINIO EUGENIE SCHARLE;Baixa;2020-09-21;2020;1;1;0.0;0.0;7630;FATURADO;ROÇADA;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+193;CONSTRUTORA NÓBREGA PIMENTA;Baixa;2020-11-04;2020;1;4;0.0;0.0;7622;FATURADO;SUPRESSÃO VEGETAL;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+194;EDUARDO MARQUES DOS SANTOS;Baixa;2020-08-11;2020;1;1;0.0;0.0;7441;FATURADO;BOBINA 110VAC – MOD4WRH25J5X / 6EW 110NET;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+195;EMBU S/A;Baixa;2020-10-28;2020;1;2;0.0;0.0;7616;FATURADO;CONJUNTO DO CILINDRO;ISA/ANGELO;Contato leve: atualização cadastral e identificação de responsável atual.
+196;ESMIG;Baixa;2020-11-05;2020;1;2;0.0;0.0;7627;FATURADO;BOBINA TN10 220VAC;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+197;FORNO DE MINAS ALIMENTOS;Baixa;2020-10-23;2020;1;2;0.0;0.0;7610;FATURADO;MANOVACUÔMETRO 60 MM ROSCA 1/2 BSP - ENCODER E6A2CS5C 360P/R 0,5 M;ISA;Contato leve: atualização cadastral e identificação de responsável atual.
+198;JOÃO POCLAIN;Baixa;2020-08-08;2020;1;1;0.0;0.0;7435;FATURADO;ROTATOR GV12 - FATURAR PELA HB;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+199;MONTANTE ENGENHARIA E SERVIÇOS;Baixa;2020-11-18;2020;1;1;0.0;0.0;7679;FATURADO;KIT ABASTECIMENTO AUTOMATIZADO COM RESERV. 500  L;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+200;NOVA ERA SILICON;Baixa;2020-04-06;2020;1;8;0.0;0.0;7250;FATURADO;BOMBA HIDRÁULICA MCR5 300 DANGOS;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+201;RER ENGENHARIA;Baixa;2020-11-03;2020;1;1;0.0;0.0;7621;FATURADO;PLANTIO DE GRAMA ESMERALDA;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+202;SIMATEC;Baixa;2020-05-18;2020;1;1;0.0;0.0;7299;FATURADO;MACACOS HIDRÁULICOS;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+203;TRANSCOL;Baixa;2020-06-15;2020;1;1;0.0;0.0;7337;FATURADO;ASSISTÊNCIA TÉCNICA;LUCIANO;Contato leve: atualização cadastral e identificação de responsável atual.
+204;GERDAU - DIVINOPOLIS;Baixa;2019-07-24;2019;4;9;0.0;0.0;6880;FATURADO;CILINDRO BASCULAMENTO;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+205;CENIBRA;Baixa;2019-07-23;2019;3;9;0.0;0.0;6871;FINALIZADO;BOMBA A4VG140;;Contato leve: atualização cadastral e identificação de responsável atual.
+206;PROMA;Baixa;2019-07-18;2019;3;8;0.0;0.0;6866;FINALIZADO;ELEMENTO FILTRANTE V2.1217-53;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+207;ANDRECELI IND. MEC. E COM. LTDA;Baixa;2019-06-05;2019;2;2;0.0;0.0;6801;FINALIZADO;VALVULAS;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+208;CIAFAL S/A;Baixa;2019-09-06;2019;2;2;0.0;0.0;6951;FINALIZADO;KIT REP CIL PNEUM;;Contato leve: atualização cadastral e identificação de responsável atual.
+209;EMPREEND. IRMÃOS MARTINS;Baixa;2019-06-18;2019;2;3;0.0;0.0;6818;FINALIZADO;BLOCO MANIFOLD, VALVULAS E MOTOR;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+210;NEMA;Baixa;2019-04-10;2019;2;2;0.0;0.0;6729;FATURADO;CILINDRO HIDR  152,4 X 63,5 X 533;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+211;SINALSEG;Baixa;2019-10-22;2019;2;2;0.0;0.0;6995;FATURADO;INSTALAÇÃO DE PLACAS;;Contato leve: atualização cadastral e identificação de responsável atual.
+212;ALCOA WORLD;Baixa;2019-11-01;2019;1;1;0.0;0.0;7011;FINALIZADO;VALVULAS DE RETENÇÃO;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+213;BRITADOR SÃO GERALDO;Baixa;2019-11-25;2019;1;1;0.0;0.0;7053;FATURADO;UNIDADE HIDRAULICA;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+214;CASCALHEIRA SANTA LUZIA;Baixa;2019-05-09;2019;1;1;0.0;0.0;6768;FINALIZADO;BOMBA A10V;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+215;CGL-FUNDAÇÕES;Baixa;2019-08-29;2019;1;1;0.0;0.0;6934;FINALIZADO;BOBINA P/VALVULA;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+216;DAYCO;Baixa;2019-05-06;2019;1;4;0.0;0.0;6762;FINALIZADO;VALVULAS;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+217;EMPRESA CONSTRUTORA BRASIL;Baixa;2019-07-09;2019;1;2;0.0;0.0;6856;FATURADO;MÃO DE OBRA P/ SINALIZAÇÃO DE VIAS;;Contato leve: atualização cadastral e identificação de responsável atual.
+218;ENGEROCHA;Baixa;2019-02-20;2019;1;2;0.0;0.0;6653;FINALIZADO;"BOMBA  P51A497BEIX17-43 - PRESS 1"" SUC";MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+219;GSL METALURGICA;Baixa;2019-11-11;2019;1;1;0.0;0.0;7030;FINALIZADO;BOMBAS DE ENGRENAGEM;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+220;IMIC;Baixa;2019-07-30;2019;1;2;0.0;0.0;6900;FINALIZADO;KIT NIVEL;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+221;KOMATSU;Baixa;2019-02-12;2019;1;11;0.0;0.0;6645;FINALIZADO;ADEQUAÇÃO NR12;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+222;NICOLAS & FREITAS;Baixa;2019-09-24;2019;1;2;0.0;0.0;6970;FATURADO;SISTEMA PATOLA CDSII;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+223;PRIMA LINEA;Baixa;2019-04-30;2019;1;4;0.0;0.0;6756;FINALIZADO;CILINDRO PNEUMATICO Ø 25;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+224;RONIVON - IPATINGA;Baixa;2019-06-05;2019;1;1;0.0;0.0;6800;FINALIZADO;VALVULA E BLOCO;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+225;TRIMAK ENGENHARIA;Baixa;2019-11-08;2019;1;1;0.0;0.0;7023;FATURADO;BOBINA;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+226;USINAGEM E CALDEIRARIA SOUZA E SUZA E SILVA;Baixa;2019-07-23;2019;1;1;0.0;0.0;6874;FINALIZADO;MOTOR ORBITROL - COMANDO - BOMBA;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+227;VALE - RIO DE PEIXE;Baixa;2019-05-15;2019;1;1;0.0;0.0;6773;FINALIZADO;COMPONENTES HIDRAULICOS;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+228;VALE - TOD;Baixa;2019-04-26;2019;1;3;0.0;0.0;6752;FATURADO;REVITALIZAÇÃO SISTEMA DE ASPERÇÃO;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+229;VM SISTEMAS;Baixa;2019-07-24;2019;1;1;0.0;0.0;6877;FATURADO;TREINAMENTO;;Contato leve: atualização cadastral e identificação de responsável atual.
+230;ARTECH;Baixa;2018-09-20;2018;1;1;0.0;0.0;6456;FINALIZADO;CAIXA EVAPORADORA;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+231;BRAVA MAQUINAS;Baixa;2018-12-07;2018;1;1;0.0;0.0;6570;FINALIZADO;UNIDADE HIDRAULICA;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+232;ECOTEC PETBRAS RECICLADOS E MAQUINAS LTDA;Baixa;2018-10-15;2018;1;9;0.0;0.0;6482;FINALIZADO;REVISÃO EM UNIDADE HIDRAULICA;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+233;ELETRICAL SYSTEM PRESTACAO DE MONT E MANUT ELETRIC;Baixa;2018-08-06;2018;1;17;0.0;0.0;6362;FINALIZADO;TROCADOR DE CALOR;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+234;IFG - INDUSTRIA DE FERRO GUSA LTDA;Baixa;2018-08-07;2018;1;19;0.0;0.0;6363;FINALIZADO;SISTEMA PNEUMATICO;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+235;INDUSTRIA MECANICA DEL RIO;Baixa;2018-09-04;2018;1;3;0.0;0.0;6418;FINALIZADO;CILINDRO HIDRAULICO;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+236;LC INSTALAÇÕES;Baixa;2018-07-25;2018;1;1;0.0;0.0;6343;FINALIZADO;BASTIDOR HIDR NR12 PLANTA SAIN GOBAIN;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+237;MPA ENGENHARIA;Baixa;2018-08-22;2018;1;3;0.0;0.0;6393;FINALIZADO;PATOLA COMBOIO;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+238;RAFAEL  - IPATINGA;Baixa;2018-10-10;2018;1;1;0.0;0.0;6476;FINALIZADO;BOMBA DE ENGRENAGEM 27CM;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+239;RUNTIME AUTOMATION;Baixa;2018-10-25;2018;1;1;0.0;0.0;6496;FINALIZADO;ADEQUAÇÃO NR12;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+240;SIBELCO;Baixa;2018-01-29;2018;1;32;0.0;0.0;6080;FINALIZADO;UNIDADE HIDRAULICA;VIVIANE;Contato leve: atualização cadastral e identificação de responsável atual.
+241;SIDERUGICA BARÃO DE MAUA;Baixa;2018-10-30;2018;1;26;0.0;0.0;6513;FINALIZADO;MATERIAIS PNEUMATICOS;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+242;SITONBRASIL;Baixa;2018-12-10;2018;1;2;0.0;0.0;6571;FINALIZADO;BOMBA HIDR A10V;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+243;USIMAX USINAGEM MAXIMA LTDA;Baixa;2018-11-22;2018;1;35;0.0;0.0;6552;FINALIZADO;CILINDRO HIDRAULICO;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+244;VALE - ITABIRA;Baixa;2018-09-18;2018;1;1;0.0;0.0;6449;FINALIZADO;CILINDRO HIDRAULICO DUPLA AÇÃO 100MM;VICTOR;Contato leve: atualização cadastral e identificação de responsável atual.
+245;VIX TRANSPORTES DEDICADOS LTDA;Baixa;2018-08-30;2018;1;1;0.0;0.0;6410;FINALIZADO;REFORMA EM CILINDRO HIDR;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
+246;JSANTOS;Baixa;2017-09-29;2017;1;21;0.0;0.0;5897;FINALIZADO;BLOCOS E VALVULAS;MATHEUS;Contato leve: atualização cadastral e identificação de responsável atual.
