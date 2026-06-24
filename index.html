@@ -245,6 +245,17 @@ tr:hover td { background: #fbfdff; }
   font-size: 12px;
   margin-top: 14px;
 }
+.sync-status {
+  font-size: 12px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+.sync-ok { background: #d1fae5; color: #065f46; }
+.sync-info { background: #dbeafe; color: #1e40af; }
+.sync-aviso { background: #fef3c7; color: #92400e; }
+.sync-erro { background: #fee2e2; color: #991b1b; }
 @media (max-width: 1000px) {
   .kpi-grid, .grid-2, .timeline { grid-template-columns: 1fr; }
   .filters { grid-template-columns: 1fr; }
@@ -266,7 +277,7 @@ tr:hover td { background: #fbfdff; }
       <div class="logo-mark">MR</div>
       <div>
         <h1>Board de Reativação de Clientes 2026</h1>
-        <div class="subtitle">Clientes que compraram no passado e não possuem solicitação/cotação registrada em 2026. Campos editáveis ficam salvos no navegador e podem ser exportados/importados.</div>
+        <div class="subtitle">Clientes que compraram no passado e não possuem solicitação/cotação registrada em 2026. Dados sincronizados em tempo real via Google Sheets. Todas as atualizações do time são compartilhadas automaticamente.</div>
       </div>
     </div>
     <div class="header-actions">
@@ -274,7 +285,13 @@ tr:hover td { background: #fbfdff; }
       <button class="btn-primary" onclick="exportCSV()">Exportar CSV</button>
       <button class="btn-primary" onclick="exportJSON()">Exportar JSON</button>
       <button class="btn-ghost" onclick="document.getElementById('importFile').click()">Importar JSON</button>
+      <button class="btn-ghost" onclick="carregarDoSheets()">🔄 Sincronizar</button>
       <input id="importFile" type="file" accept=".json" style="display:none" onchange="importJSON(event)" />
+    </div>
+  </div>
+  <div style="margin-top:10px">
+    <span id="syncStatus" class="sync-status sync-info">Conectando ao Google Sheets...</span>
+  </div>
     </div>
   </div>
 </header>
@@ -387,18 +404,71 @@ const summary = {"total": 246, "alta": 41, "media": 91, "baixa": 114, "valorHist
 const priorityCounts = {"Alta": 41, "Média": 91, "Baixa": 114};
 const yearCounts = {"2025": 41, "2024": 45, "2023": 32, "2022": 29, "2021": 24, "2020": 32, "2019": 26, "2018": 16, "2017": 1};
 
-const storageKey = "mr_board_reativacao_2026_v1";
+// ============================================================
+// CONFIGURAÇÃO — cole aqui a URL do seu Apps Script publicado
+// ============================================================
+const SHEETS_URL = "COLE_AQUI_A_URL_DO_APPS_SCRIPT";
+// ============================================================
+
 const owners = ["", "Rodrigo", "Anna Flávia", "Carine Almeida", "Maria Eduarda", "Equipe Comercial"];
 const contactStatuses = ["Não contatado", "WhatsApp enviado", "Ligação realizada", "E-mail enviado", "Aguardando retorno", "Reunião agendada", "Cotação solicitada", "Sem demanda", "Cliente inativo", "Remover da lista"];
-let edits = loadEdits();
 
-function loadEdits() {
-  try { return JSON.parse(localStorage.getItem(storageKey) || "{}"); }
-  catch(e) { return {}; }
+let edits = {};
+let syncPendente = {};
+let syncTimer = null;
+let ultimaSync = null;
+
+// --- Carrega todos os edits do Google Sheets ao abrir ---
+async function carregarDoSheets() {
+  if (!SHEETS_URL || SHEETS_URL === "COLE_AQUI_A_URL_DO_APPS_SCRIPT") {
+    mostrarStatus("⚠️ URL do Apps Script não configurada. Funcionando em modo local.", "aviso");
+    return;
+  }
+  try {
+    mostrarStatus("🔄 Carregando dados do Google Sheets...", "info");
+    const res = await fetch(SHEETS_URL + "?action=getAll");
+    const data = await res.json();
+    if (data && !data.error) {
+      edits = data;
+      ultimaSync = new Date();
+      mostrarStatus("✅ Dados sincronizados: " + ultimaSync.toLocaleTimeString("pt-BR"), "ok");
+      renderAll();
+    }
+  } catch(e) {
+    mostrarStatus("❌ Erro ao carregar dados. Verifique a URL do Apps Script.", "erro");
+  }
 }
 
+// --- Salva um edit no Google Sheets (com debounce de 1,5s) ---
 function saveEdits() {
-  localStorage.setItem(storageKey, JSON.stringify(edits));
+  // Salva localmente para feedback imediato
+  if (syncTimer) clearTimeout(syncTimer);
+  syncTimer = setTimeout(async () => {
+    if (!SHEETS_URL || SHEETS_URL === "COLE_AQUI_A_URL_DO_APPS_SCRIPT") return;
+    const pendentes = Object.keys(syncPendente);
+    if (!pendentes.length) return;
+    mostrarStatus("🔄 Salvando no Google Sheets...", "info");
+    try {
+      for (const id of pendentes) {
+        await fetch(SHEETS_URL, {
+          method: "POST",
+          body: JSON.stringify({ action: "save", id, data: edits[id] })
+        });
+      }
+      syncPendente = {};
+      ultimaSync = new Date();
+      mostrarStatus("✅ Salvo: " + ultimaSync.toLocaleTimeString("pt-BR"), "ok");
+    } catch(e) {
+      mostrarStatus("❌ Erro ao salvar. Tentando novamente...", "erro");
+    }
+  }, 1500);
+}
+
+function mostrarStatus(msg, tipo) {
+  const el = document.getElementById("syncStatus");
+  if (!el) return;
+  el.textContent = msg;
+  el.className = "sync-status sync-" + tipo;
 }
 
 function mergedRows() {
@@ -442,6 +512,7 @@ function optionList(values, selected) {
 function updateEdit(id, field, value) {
   if (!edits[id]) edits[id] = {};
   edits[id][field] = value;
+  syncPendente[id] = true;
   saveEdits();
   renderDashboard();
 }
@@ -618,10 +689,10 @@ function importJSON(event) {
 }
 
 function resetLocalData() {
-  if (!confirm("Deseja limpar os campos editáveis salvos neste navegador?")) return;
+  if (!confirm("Recarregar todos os dados do Google Sheets? Alterações não salvas serão perdidas.")) return;
   edits = {};
-  localStorage.removeItem(storageKey);
-  renderAll();
+  syncPendente = {};
+  carregarDoSheets();
 }
 
 function openTab(id, btn) {
@@ -641,6 +712,14 @@ function renderAll() {
 
 setupFilters();
 renderAll();
+carregarDoSheets();
+
+// Auto-refresh a cada 60 segundos para pegar atualizações do time
+setInterval(() => {
+  if (SHEETS_URL && SHEETS_URL !== "COLE_AQUI_A_URL_DO_APPS_SCRIPT" && !Object.keys(syncPendente).length) {
+    carregarDoSheets();
+  }
+}, 60000);
 </script>
 </body>
 </html>
